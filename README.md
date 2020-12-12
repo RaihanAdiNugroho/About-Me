@@ -2,7 +2,8 @@
 Hello,My name is **Raihan Adi Nugroho** from Indonesia.<br>
 I am seventeen years old.<br>
 I am interested about javascript language as Reactjs.<br>
-I am found out about :
+
+Skill :
 1. HTML
 2. CSS (or Framework CSS)
 3. Javascript (DOM, ES6, React)
