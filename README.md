@@ -12,6 +12,10 @@ Learn : <br>
 1. Firebase
 2. MERN (MongoDB, Express, React, Node)
 3. CodeIgniter
+4. Laravel
 
 Project :
 1. Simple Note with React and Firebase
+
+Social Media :
+1. Facebook : 
