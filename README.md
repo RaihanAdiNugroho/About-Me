@@ -5,9 +5,12 @@ I am interested about javascript language as Reactjs.<br>
 I am found out about :
 1. HTML
 2. CSS (or Framework CSS)
-3. Javascript (DOM, ES6, React) <br>
+3. Javascript (DOM, ES6, React)
 
 Learn : <br>
 1. Firebase
 2. MERN (MongoDB, Express, React, Node)
 3. CodeIgniter
+
+Project :
+1. Simple Note with React and Firebase
