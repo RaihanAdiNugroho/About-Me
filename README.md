@@ -6,3 +6,5 @@ I am found out about :
 1. HTML
 2. CSS (or Framework CSS)
 3. Javascript (DOM, ES6, React)
+Learn : <br>
+1. Firebase
