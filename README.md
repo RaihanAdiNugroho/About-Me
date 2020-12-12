@@ -1,7 +1,7 @@
 # About-Me
-Hello,My name is **Raihan Adi Nugroho** from Indonesia.
-I am seventeen years old.
-I am interested about javascript language as Reactjs.
+Hello,My name is **Raihan Adi Nugroho** from Indonesia.<br>
+I am seventeen years old.<br>
+I am interested about javascript language as Reactjs.<br>
 I am found out about :
 1. HTML
 2. CSS (or Framework CSS)
